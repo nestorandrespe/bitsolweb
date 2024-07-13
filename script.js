@@ -7,19 +7,17 @@ const renderer = new THREE.WebGLRenderer();
 renderer.setSize(window.innerWidth, window.innerHeight);
 document.body.appendChild(renderer.domElement);
 
-// OrbitControls
 const controls = new OrbitControls(camera, renderer.domElement);
 controls.enableDamping = true;
 controls.dampingFactor = 0.25;
 controls.enableZoom = false;
 
-// Star Field
 const starCount = 10000;
 const geometry = new THREE.BufferGeometry();
-const positions = new Float32Array(starCount * 3); // x, y, z for each vertex
+const positions = new Float32Array(starCount * 3);
 
 for (let i = 0; i < positions.length; i++) {
-    positions[i] = (Math.random() - 0.5) * 2000; // Random positions in space
+    positions[i] = (Math.random() - 0.5) * 2000;
 }
 
 geometry.setAttribute('position', new THREE.BufferAttribute(positions, 3));
@@ -48,7 +46,6 @@ scene.add(stars);
 
 camera.position.z = 500;
 
-// Animation Loop
 function animate() {
     requestAnimationFrame(animate);
 
