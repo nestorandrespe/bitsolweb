@@ -43346,8 +43346,8 @@ function animate() {
   // if gyroscope is available on the device then rotate the camera based on the device orientation
   if (window.DeviceOrientationEvent) {
     window.addEventListener('deviceorientation', function (event) {
-      camera.rotation.y = event.alpha * Math.PI / 180;
-      camera.rotation.x = event.beta * Math.PI / 180;
+      camera.position.y = event.alpha * Math.PI / 180;
+      camera.position.x = event.beta * Math.PI / 180;
     });
   }
   renderer.render(scene, camera);
