@@ -43332,22 +43332,23 @@ function animate() {
   material_universe.uniforms.time.value = performance.now() / 1000;
 
   // get mouse position
-  var mouse = new THREE.Vector2();
-  window.addEventListener('mousemove', function (event) {
-    mouse.x = event.clientX / window.innerWidth * 2 - 1;
-    mouse.y = -(event.clientY / window.innerHeight) * 2 + 1;
-    camera.position.x = mouse.x * 100;
-    camera.position.y = mouse.y * 100;
-
-    // rotate the plane to face the camera
-    universe.lookAt(camera.position);
-  });
 
   // if gyroscope is available on the device then rotate the camera based on the device orientation
   if (window.DeviceOrientationEvent) {
     window.addEventListener('deviceorientation', function (event) {
       camera.position.y = event.alpha * Math.PI / 180;
       camera.position.x = event.beta * Math.PI / 180;
+    });
+  } else {
+    window.addEventListener('mousemove', function (event) {
+      var mouse = new THREE.Vector2();
+      mouse.x = event.clientX / window.innerWidth * 2 - 1;
+      mouse.y = -(event.clientY / window.innerHeight) * 2 + 1;
+      camera.position.x = mouse.x * 100;
+      camera.position.y = mouse.y * 100;
+
+      // rotate the plane to face the camera
+      universe.lookAt(camera.position);
     });
   }
   renderer.render(scene, camera);
