@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,KACI,wBAAyB,CACzB,4BAA8B,CAC9B,QAAS,CACT,SACJ","file":"styles.559ec011.css","sourceRoot":"../src","sourcesContent":["body {\r\n    background-color: #f0f0f0;\r\n    font-family: Arial, sans-serif;\r\n    margin: 0;\r\n    padding: 0;\r\n}"]}
