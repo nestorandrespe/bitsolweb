@@ -43326,6 +43326,7 @@ gltfLoader.load(_bitsol.default, function (gltf) {
   console.error(error);
 });
 camera.position.z = 500;
+var gyroPresent = false;
 function animate() {
   requestAnimationFrame(animate);
   controls.update();
@@ -43334,12 +43335,15 @@ function animate() {
   // get mouse position
 
   // if gyroscope is available on the device then rotate the camera based on the device orientation
-  if (window.DeviceOrientationEvent) {
-    window.addEventListener('deviceorientation', function (event) {
-      camera.position.y = event.alpha * Math.PI / 180;
-      camera.position.x = event.beta * Math.PI / 180;
-    });
-  } else {
+  window.addEventListener('devicemotion', function (event) {
+    if (event.rotationRate.alpha || event.rotationRate.beta || event.rotationRate.gamma) {
+      gyroPresent = true;
+      camera.position.y = event.rotationRate.alpha * Math.PI / 180;
+      camera.position.x = event.rotationRate.beta * Math.PI / 180;
+      universe.lookAt(camera.position);
+    }
+  });
+  if (!gyroPresent) {
     window.addEventListener('mousemove', function (event) {
       var mouse = new THREE.Vector2();
       mouse.x = event.clientX / window.innerWidth * 2 - 1;
@@ -43379,7 +43383,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "40445" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "37339" + '/');
   ws.onmessage = function (event) {
     checkedAssets = {};
     assetsToAccept = [];
