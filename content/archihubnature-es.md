@@ -10,6 +10,8 @@
 
 ### Actualmente estamos trabajando en aplicaciones para estaciones meteorológicas pequeñas y cultivos hidropónicos. Hemos integrado ArchiHUB para la recolección, procesamiento y publicación de datos a través de aplicaciones de mensajería instantánea.
 
+![UI](/images/archihubnature/presentacion_03.jpg)
+
 ### A medida que avancemos, implementaremos más detalles sobre las posibilidades. Mientras tanto, puedes consultar la siguiente publicación, que describe conceptualmente el propósito de este proyecto.
 
 [Orbital Data: Towards Earth Awareness Through Natural Memory](/en/projects/archihub-earth)
