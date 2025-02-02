@@ -1,7 +1,7 @@
 # Hacia una Conciencia Terrestre a Través de la Memoria Natural
 
 #### Néstor Andrés Peña
-#### Dic 22, 2024
+#### Dic 22, 2023
 
 A lo largo de la historia, nuestro mundo ha albergado una rica colección de historias y narrativas. Desde interpretaciones objetivas y científicas hasta personificaciones divinas, las narrativas que exploran los orígenes de la Tierra y nuestro papel en el vasto universo han sido numerosas. Este proyecto se embarca en la tarea de tejer una narrativa única en torno al planeta, entendiéndolo como una entidad con conciencia propia, no sólo para comprender, sino también para estrechar vínculos íntimos con aquella masa flotando en el espacio.
 

@@ -1,5 +1,8 @@
 # Orbital Data: Towards Earth Awareness Through Natural Memory
 
+#### Néstor Andrés Peña
+#### Dic 22, 2023
+
 Throughout history, our world has hosted a rich collection of stories and narratives. From objective and scientific interpretations to divine personifications, the narratives exploring the origins of Earth and our role in the vast universe have been numerous. This project undertakes the task of weaving a unique narrative around the planet, understanding it as an entity with its own consciousness, not just for understanding but also to forge intimate connections with that mass floating in space.
 
 In Stanisław Lem's work, "Solaris," an alien form of life is illustrated in the form of an entire planet. Scientific teams orbit this enigmatic world, observing its movements in an attempt to comprehend it. Similarly, our planet is a subject of study with the presence of numerous orbital artifacts. The main distinction lies in the specific purpose for which these satellites collect data.
