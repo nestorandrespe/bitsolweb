@@ -14,4 +14,4 @@
 
 ### A medida que avancemos, implementaremos más detalles sobre las posibilidades. Mientras tanto, puedes consultar la siguiente publicación, que describe conceptualmente el propósito de este proyecto.
 
-[Orbital Data: Towards Earth Awareness Through Natural Memory](/en/projects/archihub-earth)
+[Hacia una Conciencia Terrestre a Través de la Memoria Natural](/es/projects/archihub-earth)
