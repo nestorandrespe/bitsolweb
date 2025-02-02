@@ -1,6 +1,6 @@
 # What is Archihub?
 
-### ArchiHUB is a Colombian open source application that seeks to weave narratives through the systematization of information, either with institutional documents, historical archives or natural data.
+### ArchiHUB is a Colombian open source application that seeks to weave narratives through the systematization of information, either with institutional documents, historical archives or natural data. Check out the [repository](https://github.com/Archihub-App) and the [oficial documentation](https://archihub-app.github.io/archihub.github.io/en/) to know more!
 
 ![UI](/images/archihub/presentacion_01.png)
 
@@ -16,7 +16,7 @@
 
 ## Know more about the project
 
-### You can learn more about the project either by exploring the [repository](https://github.com/Archihub-App), reading several of our publications on the topic, or requesting a demonstration.
+### You can learn more about the project either by reading several of our publications on the topic, or requesting a demonstration!
 
 - [Why ArchiHUB exists](/en/projects/why-archihub)
 - [Web 3.0 revolution might not be about crypto, but rather revolves around our memories](/en/projects/web-3-0-revolution-might-not-be-about-crypto-but-rather-revolves-around-our-memories)

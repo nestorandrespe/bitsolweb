@@ -1,6 +1,7 @@
 # Why ArchiHUB exists?
 
 #### Néstor Andrés Peña
+#### Feb 10, 2024
 
 ## Beyond the Functional and Technical Requirements of the Application
 
@@ -28,4 +29,4 @@ Recollection, on the other hand, refers to the different ways of accessing store
 
 However, ArchiHUB does not intend to be the sole means of interacting with the documentary collection. The platform offers a public API that requires user registration and provides multiple access points for querying information. These allow not only content retrieval but also advanced search and data exploration functionalities. Such capabilities enable the development of experiences for web platforms, virtual reality, and even gaming environments.
 
-This flexibility in accessing information is crucial because the processes of remembering within memory must be adaptable to diversify access and facilitate new interpretations and appropriations of our memories.web-3-0-revolution-might-not-be-about-crypto-but-rather-revolves-around-our-memories
+This flexibility in accessing information is crucial because the processes of remembering within memory must be adaptable to diversify access and facilitate new interpretations and appropriations of our memories.

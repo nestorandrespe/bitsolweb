@@ -1,5 +1,6 @@
 # Open Source and the Post-Agreement Era in Colombia
 #### Néstor Andrés Peña
+#### Jan 22, 2024
 
 ## The Philosophy of Open Source Within Institutions for Reconciliation in Colombia
 It was the early 2000s, and I was taking my first steps in internet forums. At that time, discussions revolved around Microsoft’s monopoly and its anti-competitive practices, particularly in the realm of web browsers and server operating systems. In this context, the Linux operating system, with distributions like Ubuntu, was beginning to reach a wider audience.

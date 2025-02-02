@@ -1,6 +1,6 @@
 # ¿Qué es Archihub?
 
-### ArchiHUB es una aplicación de código abierto colombiana que busca tejer narrativas a través de la sistematización de información, ya sea con documentos institucionales, archivos históricos o datos naturales.
+### ArchiHUB es una aplicación de código abierto colombiana que busca tejer narrativas a través de la sistematización de información, ya sea con documentos institucionales, archivos históricos o datos naturales. Puedes ir al [repositorio](https://github.com/Archihub-App) y a la [documentación oficial](https://archihub-app.github.io/archihub.github.io/) para conocer más!
 
 ![UI](/images/archihub/presentacion_01.png)
 
@@ -16,11 +16,11 @@
 
 ## Conoce más acerca del proyecto
 
-### Puedes obtener más información sobre el proyecto explorando el [repositorio](https://github.com/Archihub-App), leyendo algunas de nuestras publicaciones sobre el tema o solicitando una demostración.
+### Puedes obtener más información sobre el proyecto leyendo algunas de nuestras publicaciones sobre el tema o solicitando una demostración.
 
-- [Why ArchiHUB exists](/en/projects/why-archihub)
-- [Web 3.0 revolution might not be about crypto, but rather revolves around our memories](/en/projects/web-3-0-revolution-might-not-be-about-crypto-but-rather-revolves-around-our-memories)
-- [The Digital Archive of the XXI century](/en/projects/the-digital-archive-xx-century)
-- [Museums, Information Systems, and Inclusive Narratives for Afro, Raizal, and Palenquero Communities in Colombia](/en/projects/museums-information-systems-and-inclusive-narratives)
-- [Guardians of Time: Digital Tools, Knowledge, and Traditional Practices](/en/projects/guardians-of-time)
-- [Open Source and the Post-Agreement Era](/en/projects/open-source-post-agreement)
+- [¿En qué consiste ArchiHUB?](/es/projects/why-archihub)
+- [La revolución de la Web 3.0 podría no tratarse tanto de criptomonedas, sino más bien girar en torno a nuestros recuerdos](/es/projects/web-3-0-revolution-might-not-be-about-crypto-but-rather-revolves-around-our-memories)
+- [El archivo digital del siglo XXI y los memes](/es/projects/the-digital-archive-xx-century)
+- [Museos, Sistemas de Información y Narrativas Inclusivas para las Comunidades Afro, Raizales y Palenqueras en Colombia](/es/projects/museums-information-systems-and-inclusive-narratives)
+- [Guardianes del Tiempo: Herramientas Digitales, Saberes y Prácticas Tradicionales](/es/projects/guardians-of-time)
+- [El código abierto y el post acuerdo](/es/projects/open-source-post-agreement)

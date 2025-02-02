@@ -1,6 +1,7 @@
 # Museums, Information Systems, and Inclusive Narratives for Afro, Raizal, and Palenquero Communities in Colombia
 
-### Néstor Andrés Peña
+#### Néstor Andrés Peña
+#### Jan 11, 2024
 
 ![Intro](/images/archihub/museos-01.webp)
 
@@ -124,13 +125,9 @@ At this point, the conceptual and technical framework of the tool as a system ha
 
 The tool allows for the cataloging of information following predefined rules while also being adaptable enough for each institution to define the structure and hierarchy of information according to its specific needs. This enables content exploration by themes, revealing not only the internal organization of the archive but also highlighting what is missing, depending on how the content is used and called upon.
 
-### AI and the Improvement of Transcription Models
-
 The integration of artificial intelligence (AI) models as complements to the tool, along with its ability to process and systematize new information, paves the way for training specialized models. While much is said about biases in AI models, the core issue does not lie in the model itself but in the training data that feeds it. The solution to this problem begins with tools that enable the generation and systematization of more representative training data.
 
 In our case, we could focus on improving transcription models to better recognize the accents and regionalisms of diverse communities across the country. This effort represents an attempt to “listen to ourselves better.” This task can be carried out through the tool, leveraging information systematization and its integration with messaging applications.
-
-### Search and Narrative: An Evolving Ecosystem
 
 Search, with its various levels of complexity—whether keyword-based or semantic—marks the beginning of a path that branches out in multiple directions. The ability to transcribe, combined with a text-based interface, allows for a conversational interaction in these queries, strengthening the narratives that the museum seeks to communicate through its curatorial work.
 

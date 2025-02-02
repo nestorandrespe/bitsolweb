@@ -1,5 +1,9 @@
 # Guardians of Time: Digital Tools, Knowledge, and Traditional Practices
 
+
+#### Néstor Andrés Peña
+#### Jan 16, 2024
+
 ## Thinking of a Knowledge Network from a Digital Humanities Perspective
 
 When we refer to traditional knowledge, we are talking about wisdom passed down through generations, continuously adapting to the environment in which it emerges. This knowledge can encompass anything from hunting or farming techniques to the use of medicinal plants and a deep understanding of the relationship between people and nature. For example, in Colombia, there are the Guardianes de Semillas (Seed Guardians), who dedicate themselves to preserving and organizing native and heirloom seeds. Beyond safeguarding the seeds, they also protect the knowledge associated with their cultivation, preservation, and adaptation to the specific climatic variations of each region.

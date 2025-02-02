@@ -1,6 +1,7 @@
 # The Digital Archive of the XXI century
 
 #### Néstor Andrés Peña
+#### May 3, 2023
 
 In this new era, digital archives will become increasingly crucial as a means of preserving and accessing our cultural and historical information. However, the traditional approach to constructing and cataloging these archives may no longer be sufficient to keep pace with the rapidly evolving technological landscape. To fully leverage the potential of digital archives, it is essential to take advantage of recent technological developments and to adopt new strategies for building and organizing these repositories of memories. In this text, we will explore the need to rethink the traditional approach to digital archives and examine the potential benefits of new approaches for the preservation and accessibility of cultural and historical information in the digital era.
 
