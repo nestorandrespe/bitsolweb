@@ -2,17 +2,20 @@
 
 ### ArchiHUB is a Colombian open source application that seeks to weave narratives through the systematization of information, either with institutional documents, historical archives or natural data. Check out the [repository](https://github.com/Archihub-App) and the [oficial documentation](https://archihub-app.github.io/archihub.github.io/en/) to know more!
 
-![UI](/images/archihub/presentacion_01.png)
+![General view of the galleries and cataloging data](/images/archihub/archihub_01.jpg)
+![Automatic transcription for videos with speaker statistics](/images/archihub/archihub_02.jpg)
+![Cataloging modules and advanced metadata editing](/images/archihub/archihub_03.jpg)
 
-### Its goal is to help users better understand complex data and visualize connections between different pieces of information.
+### It combines all types of information, from structured data to free text, as well as data collected from sensors or extracted from natural systems and conversations, such as Telegram chats. This is all made possible through its practical plugins. Additionally, ArchiHub is largely open-source, allowing you to use it on your own computer or server and easily create a customized API. A flexible solution to manage your information your way!
 
-![UI](/images/archihub/presentacion_02.png)
+![You can perform processing in Python and integrate it into ArchiHUB to apply it either massively or individually to your documents](/images/archihub/archihub_04.jpg)
+![Edit the results of your processing](/images/archihub/archihub_05.jpg)
 
-### Thanks to its high flexibility, compatibility with services such as AWS S3, Python plugin ecosystem and robust database management, ArchiHUB facilitates long-term digital preservation.
+### ArchiHub is designed to organize your information efficiently while also helping you weave stories with it. You can use our free interface to get started easily or, if you prefer, design your own interfaces to interact with your files and share them however you like. You decide how to bring your data to life!
 
-![UI](/images/archihub/presentacion_03.png)
+![A powerful form editor that allows you to define your metadata standard](/images/archihub/archihub_06.jpg)
 
-### Due to its conceptual origins and its focus on historical memory as a subject of study in the digital realm, ArchiHUB is seen as an artistic project that sparks debates around the narratives that collectively shape a central idea.
+### ArchiHub is born from a unique vision and a passion for historical memory in the digital world, making it much more than just a tool—it is an artistic project. It invites reflection and discussion on how collective narratives can come together to build a powerful and shared idea. A creative way to explore the past and present!
 
 ## Know more about the project
 
